@@ -28,6 +28,18 @@ print (my_list)
 address = "198.223.xx.xx"
 print (address [0:3])
 
+#Using Index fucntion to extract list where the occurance resides in the list 
+username_list = ["bmoreno", "wjaffrey", "tshah", "sgilmore", "btang"]
+username_index = username_list.index("tshah")
+print(username_index)
+
+
+# Using append function to add a name to the list 
+username_list = ["bmoreno", "wjaffrey", "tshah", "sgilmore"]
+print("Before appending an element:", username_list)
+username_list.append("btang")
+print("After appending an element:", username_list)
+
 
 # Extract the first three characters from a list of IP addresses
 IP = ["198.223.xx.xx", "198.101.xx.xx", "180.064.xx.xx", "192.168.xx.xx", "184.090.xx.xx"]
@@ -35,3 +47,12 @@ networks = []
 for address in IP: 
     networks.append (address[0:3])
 print (networks)
+
+
+# Adding numbers to an emply list 
+numbers_list = []
+print("Before appending a sequence of numbers:", numbers_list)
+for i in range(10):
+    numbers_list.append(i)
+print("After appending a sequence of numbers:", numbers_list)
+
