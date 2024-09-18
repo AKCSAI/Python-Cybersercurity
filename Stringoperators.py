@@ -27,7 +27,7 @@ print(device_id[0])
 
 #Identifying the length and 
 device_id_lenght = len("h32rb17")
-if device_id_lenght = 7 
+if device_id_lenght == 7:
     print ("The device has 7 characters.")
-    
-
+else: 
+    print ("all is good")
