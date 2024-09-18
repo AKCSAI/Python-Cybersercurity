@@ -7,3 +7,11 @@ print (len("Hello"))
 
 # Concatenate 2 strings 
 print ("hello" + "world")
+
+#apply lower method to "Hello"
+print ("hello".lower())
+
+#Indexes in Python start from Zero
+"Hello"[1]
+"Hello"[0:3]
+
