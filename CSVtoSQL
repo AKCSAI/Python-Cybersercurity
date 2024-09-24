@@ -36,3 +36,5 @@ table_name = 'users_logins'
 csv_to_sql(csv_path, sql_path, table_name)
 
 print(f"Conversion complete! SQL file saved at {sql_path}")
+
+
