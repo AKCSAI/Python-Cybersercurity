@@ -15,8 +15,8 @@ def csv_to_txt(csv_path, txt_path):
                 txt_file.write('\t'.join(row) + '\n')
 
 # Define the paths
-csv_path = '/users/azizkhan/SQLDB/cybersecurity_data.csv'  # Replace with the actual CSV path on your system
-txt_path = '/users/azizkhan/SQLDB/cybersecurity_data.txt'
+csv_path = '/users/azizkhan/SQLDB/user_logins.csv'  # Replace with the actual CSV path on your system
+txt_path = '/users/azizkhan/SQLDB/user_logins.txt'
 
 # Call the function to convert CSV to TXT
 csv_to_txt(csv_path, txt_path)
