@@ -1,3 +1,5 @@
+# This code shows the use of regular expressions
+
 # Email addresses 
 import re
 email_log = "mazizk08@gmail.com"
