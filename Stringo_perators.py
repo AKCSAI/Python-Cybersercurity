@@ -1,3 +1,5 @@
+# This code shows how to use string functions
+
 # Convert an integer into a string
 new_string = str(123)
 print(type(new_string))
