@@ -1,4 +1,7 @@
-#Explore input and output of print function 
+# This code shows how to use arguments in python
+
+# Explore input and output of print function 
+
 print (type("hello"))
 print ("This is a string, but", 75, "is a number.")
 
