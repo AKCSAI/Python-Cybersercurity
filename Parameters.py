@@ -1,4 +1,4 @@
-# This code shows how to use parameters
+# This code shows how to use different parameters
 
 #Greet employees by name 
 def greet_employees(name):
