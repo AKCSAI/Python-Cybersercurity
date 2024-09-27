@@ -1,3 +1,5 @@
+# This code shows how to use conditional loops
+
 failed_login = 5
 if failed_login > 5:
     print ("Account locked") 
