@@ -1,3 +1,5 @@
+# This program converts CSV to SQL
+
 import os
 import csv
 
