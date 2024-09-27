@@ -1,3 +1,5 @@
+# This program converts CSV to TXT
+
 import os
 import csv
 
