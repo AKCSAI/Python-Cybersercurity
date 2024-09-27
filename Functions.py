@@ -1,3 +1,5 @@
+# This code shows how to use function
+
 #Define a function 
 def greet_employee():
     print ("Welcome. You are logged in.")
