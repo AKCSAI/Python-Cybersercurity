@@ -1,3 +1,5 @@
+# This code shows how to use parameters
+
 #Greet employees by name 
 def greet_employees(name):
     print ("Welcome! You're logged in", name)
