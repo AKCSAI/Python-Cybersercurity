@@ -1,3 +1,5 @@
+# This code shows how to read and write to a file 
+
 # The .split() method converts a string into a list.
 approved_users = "elarson,bmoreno,tshah,sgilmore,eraab"
 print("before .split():", approved_users)
