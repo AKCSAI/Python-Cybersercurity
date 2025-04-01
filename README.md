@@ -10,10 +10,10 @@ git clone https://github.com/AKCSAI/Python-Cybersercurity.git
 Ensure the paths to the files are correctly set in your environment or script.
 Run the scripts according to the provided documentation or comments within the files.
 
-Requirements
+Requirements:
 Verify that you have the necessary dependencies installed (if any).
 Paths to the files should be configured to match your local environment setup.
 
-Notes
+Notes:
 If you encounter any issues, check that the file paths and permissions are correct.
 Feel free to contribute or reach out if you have any questions!
